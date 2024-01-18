@@ -2193,11 +2193,16 @@
 	#roadmap_06 .location_04 {
 	    width: 100%;
 	}
+
+	.hide-xs{
+		display: none;
+	}
 }
 /*		Wide Mobile Layout: 480px.
 ------------------------------------------------- */
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+
 	#companis_supported_01 .companis_supported_logos ul li {
 	    width: 35% !important;
 	    margin-bottom: 30px;
@@ -2274,5 +2279,9 @@
 	}
 	.header-01 {
 	    min-height: 620px;
+	}
+
+	.hide-sm{
+		display: none;
 	}
 }
