@@ -2197,6 +2197,9 @@
 	.hide-xs{
 		display: none;
 	}
+	.pb-80-xs{
+		padding-bottom: 80px;
+	}
 }
 /*		Wide Mobile Layout: 480px.
 ------------------------------------------------- */
@@ -2283,5 +2286,8 @@
 
 	.hide-sm{
 		display: none;
+	}
+	.pb-80-sm{
+		padding-bottom: 80px;
 	}
 }
