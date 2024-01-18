@@ -4,7 +4,7 @@ $(document).ready(function() {
 	// Peloader
 	setTimeout(function(){
 		$('body').addClass('loaded');
-	}, 3000);
+	}, 1000);
 	
 	// Faq Tab
 	$('#faq-area-06  .accordion-single .panel-heading').on('click', function(e){
