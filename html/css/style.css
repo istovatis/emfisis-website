@@ -3042,12 +3042,15 @@ select {
 }
 #header-04:before {
 	position: absolute;
-	background: url("../images/banner-04.png") no-repeat 100% 100%;
+	/* background: url("../images/banner-04.png") no-repeat 100% 100%; */
+	background: url("../images/fap-01.png") no-repeat 100% 100%;
 	content: "";
 	height: 872px;
 	width: 791px;
-	left: 50%;
-	top: 31%;
+	/* left: 50%;
+	top: 31%; */
+	left: 37%;
+	top: 0%;
 	transform: translateX(-50%);
 	z-index: -2;
 }
