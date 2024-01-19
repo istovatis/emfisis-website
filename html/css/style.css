@@ -3709,7 +3709,8 @@ select {
 	cursor: pointer;
 }
 #footer-04 {
-	background: #241454;
+	background:  linear-gradient(to bottom, #182248 0%, #020c56 100%);
+	padding-top: 0;
 }
 #footer-04 .social-items {
 	display: flex;
@@ -3786,10 +3787,12 @@ select {
 	font-weight: 400;
 }
 #footer-04 .footer-btm-wrapper {
+	/* padding-top: 100px; */
 	padding-top: 100px;
-	border-top: 1px solid #4c3e72;
-	margin-top: 100px;
-	padding-bottom: 100px;
+	/* border-top: 1px solid #4c3e72; */
+	/* margin-top: 100px; */
+	/* padding-bottom: 100px; */
+	padding-bottom: 60px;
 }
 #footer-04 .footer-btm-wrapper .subtitle_1 {
 	color: #ffffff;
@@ -3809,6 +3812,7 @@ select {
 }
 #footer-04 .copyright {
 	width: 100%;
+	border-top: 1px solid #4c3e72;
 }
 #footer-04 .copyright p {
 	font-size: 14px;
@@ -3817,7 +3821,7 @@ select {
 	border-top: none;
 	line-height: 14px;
 	text-align: center;
-	color: #a2b2ff;
+	/* color: #a2b2ff; */
 }
 /*====================== {
  Index five style 

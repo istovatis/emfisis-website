@@ -1284,7 +1284,7 @@
 		visibility: hidden;
 	}
 	.navbar-light .navbar-brand::before {
-		background: url('../images/logo.png');
+		/* background: url('../images/logo.png'); */
 		position: absolute;
 		top: 0;
 		right: 0;
@@ -1503,7 +1503,7 @@
 	#footer-04 .footer-btm-wrapper {
 		padding-top: 0;
 		border-top: none;
-		margin-top: 50px;
+		/* margin-top: 50px; */
 		padding-bottom: 100px;
 	}
 	#footer-04 .footer-btm-wrapper p {
