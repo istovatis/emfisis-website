@@ -1719,7 +1719,7 @@
 	}
 	/* index 04*/
 	#header-04 {
-		min-height: 100%;
+		/* min-height: 100%; */
 	}
 	#header-04 .intro-text h1 {
 		font-size: 32px;
@@ -1734,7 +1734,7 @@
 	    margin-bottom: 100px;
 	}
 	#header-04::before {
-		display: none;
+		/* display: none; */
 	}
 	#header-04 .intro-text .btn-default-style {
 		margin-left: 0;
