@@ -3007,7 +3007,7 @@ select {
 ========================*/
 
 .body_04 {
-	color: #7a839e;
+	/* color: #7a839e; */
 }
 .body_04 p {
 	line-height: 25px;
@@ -3034,7 +3034,7 @@ select {
 	font-weight: 600;
 }
 #header-04 {
-	background: linear-gradient(to bottom, #7422a8 0%, #2c095c 100%);
+	/* background: linear-gradient(to bottom, #7422a8 0%, #2c095c 100%); */
 	background-size: cover;
 	position: relative;
 	min-height: 1050px;
@@ -3109,7 +3109,7 @@ select {
 	margin-top: 30px;
 	font-weight: 400;
 	padding-right: 0px;
-	color: rgba(255, 255, 255, 0.5);
+	/* color: rgba(255, 255, 255, 0.5); */
 	max-width: 62%;
 	margin: 30px auto 0;
 }
@@ -3245,7 +3245,8 @@ select {
 	margin: 0;
 }
 #about_cryptonic_04 {
-	background: linear-gradient(to bottom, #261055 0%, #260f56 100%);
+	/* background: linear-gradient(to bottom, #261055 0%, #260f56 100%); */
+	background: #081864;
 	padding: 200px 0 100px;
 	min-height: auto;
 }
@@ -3266,7 +3267,7 @@ select {
 }
 #about_cryptonic_04 .about_cryptonic-content p {
 	margin-top: 20px;
-	color: #7a839e;
+	/* color: #7a839e; */
 	font-weight: 400;
 }
 #about_cryptonic_04 .about-img {
@@ -3275,7 +3276,8 @@ select {
 }
 #benefit-04 {
 	padding: 100px 0;
-	background: linear-gradient(to bottom, #260f56 0%, #2b0a5a 100%);
+	/* background: linear-gradient(to bottom, #260f56 0%, #2b0a5a 100%); */
+	background: #081864;
 	position: relative;
 }
 #benefit-04:before {
@@ -3318,7 +3320,7 @@ select {
 }
 #benefit-04 .single-items .benefits-content p {
 	font-size: 15.5px;
-	color: #7a839e;
+	/* color: #7a839e; */
 	margin: 0;
 }
 #real_investor_04 {
@@ -3483,7 +3485,8 @@ select {
 	line-height: 15px;
 }
 #services-04 {
-	background: linear-gradient(to bottom, #182248 0%, #251155 100%);
+	/* background: linear-gradient(to bottom, #182248 0%, #251155 100%); */
+	background: #020c56;
 }
 #services-04 .sub-title {
 	margin: 0px auto 70px;
@@ -3571,7 +3574,8 @@ select {
 /*---------- team Style-------*/
 
 #team_membar_04 {
-	background: linear-gradient(to bottom, #251155 0%, #261055 100%);
+	/* background: linear-gradient(to bottom, #251155 0%, #261055 100%); */
+	background: #020c56;
 	padding: 100px 0 150px;
 }
 #team_membar_04 .single-row {
