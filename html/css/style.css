@@ -3599,7 +3599,8 @@ select {
 	position: relative;
 }
 #team_membar_04 .single-row .team-single-item figure .member-img:before {
-	background: linear-gradient(to bottom, rgba(205, 175, 227, 0.15) 30%, rgba(115, 34, 168, 0.8) 70%, rgba(104, 31, 155, 0.9) 100%);
+	/* background: linear-gradient(to bottom, rgba(205, 175, 227, 0.15) 30%, rgba(115, 34, 168, 0.8) 70%, rgba(104, 31, 155, 0.9) 100%); */
+	background: linear-gradient(to bottom, rgba(205, 175, 227, 0.1) 60%, rgb(75,160,242,0.9) 94%, rgba(14, 135,237,0.99) 100%);
 	content: "";
 	left: 0;
 	position: absolute;
@@ -3668,7 +3669,9 @@ select {
 	color: #26e48a;
 }
 #team_membar_04 .single-row .team-single-item figure:hover .member-img:before {
-	background: linear-gradient(to bottom, rgba(205, 175, 227, 0.15) 30%, rgba(115, 34, 168, 0.8) 85%, rgba(104, 31, 155, 0.9) 100%);
+	/* background: linear-gradient(to bottom, rgba(205, 175, 227, 0.15) 30%, rgba(115, 34, 168, 0.8) 85%, rgba(104, 31, 155, 0.9) 100%); */
+	background: linear-gradient(to bottom, rgba(205, 175, 227, 0.1) 20%, rgb(75,160,242,0.9) 94%, rgba(14, 135,237,0.99) 100%);
+
 }
 #team_membar_04 .single-row .team-single-item figure:hover figcaption {
 	transition: all 0.3s ease-in-out;
