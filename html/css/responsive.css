@@ -790,6 +790,10 @@
 		z-index: -10;
 		display: none;
 	}
+
+	#team_membar_04 .single-row {
+		padding: 0 150px;
+	}
 }
 /*		Mobile Layout: 320px.
 ---------------------------------------------------------------- */
@@ -2295,4 +2299,5 @@
 		padding-left: 80px!important;
 		padding-right: 80px!important;
 	}
+	
 }

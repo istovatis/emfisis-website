@@ -3626,7 +3626,8 @@ select {
 	text-align: left;
 	bottom: 0;
 	left: 0;
-	width: 100%;
+	/* width: 100%; */
+	width: fit-content;
 	padding: 0;
 	margin-left: 40px;
 }
