@@ -3581,6 +3581,7 @@ select {
 #team_membar_04 .single-row {
 	margin-bottom: 40px;
 	padding: 0 30px;
+	row-gap: 20px;
 }
 #team_membar_04 .single-row:last-child {
 	margin-bottom: 0;
