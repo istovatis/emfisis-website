@@ -3037,7 +3037,7 @@ select {
 	/* background: linear-gradient(to bottom, #7422a8 0%, #2c095c 100%); */
 	background-size: cover;
 	position: relative;
-	min-height: 1050px;
+	min-height: 850px;
 	z-index: 99;
 }
 #header-04:before {
@@ -3052,7 +3052,7 @@ select {
 	width: 791px; */
 	left: 50%;
 	/* top: 31%; */
-	top: 41%;
+	top: 30%;
 	transform: translateX(-50%);
 	z-index: -2;
 }
